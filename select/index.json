@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "HEART STATION",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2025-12-28T01:32:09.339929Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "HEART STATION",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_HEART_STATION_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HEART STATION",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/02_HEART_STATION_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HEART STATION",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/03_HEART_STATION_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HEART STATION",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/04_HEART_STATION_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heart Station / Beings (Shelter Live Version) [Mixed]",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/05_Heart_Station___Beings_(Shelter_Live_Version)_[Mixed]_Porter_Robinson.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heart Station (Remastered 2018)",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/06_Heart_Station_(Remastered_2018)_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heart Station (Utada Hikaru) x Beings (Shelter Edit)",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/07_Heart_Station_(Utada_Hikaru)_x_Beings_(Shelter_Edit)_Porter_Robinson.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "宇多田ヒカル - HEART STATION",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/08_宇多田ヒカル_-_HEART_STATION_宇多田光.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "HEART STATION",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/09_HEART_STATION_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heart Station / Beings (Shelter live version) [mixed]",
+      "artist": "Hikaru Utada, Madeon & Porter Robinson",
+      "has_synced": false,
+      "path": "select/10_Heart_Station___Beings_(Shelter_live_version)_[mixed]_Hikaru_Utada,_Madeon_&_Porter_Robinson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heart Station (2014 Remastered)",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/11_Heart_Station_(2014_Remastered)_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Heart Station / Beings (Shelter Live Version) (Mixed)",
+      "artist": "Hikaru Utada, Madeon & Porter Robinson",
+      "has_synced": false,
+      "path": "select/12_Heart_Station___Beings_(Shelter_Live_Version)_(Mixed)_Hikaru_Utada,_Madeon_&_Porter_Robinson.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "HEART STATION (Remastered 2018)",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/13_HEART_STATION_(Remastered_2018)_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Heart Station (Remastered 2018)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/14_Heart_Station_(Remastered_2018)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HEART STATION",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_HEART_STATION_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "HEART STATION",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_HEART_STATION_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "HEART STATION",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_HEART_STATION_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "HEART STATION",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_HEART_STATION_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "HEART STATION",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_05_HEART_STATION_宇多田_ヒカル.txt"
+    }
+  ]
+}
